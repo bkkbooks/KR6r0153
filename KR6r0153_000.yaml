@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0153/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道宣律師感通錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2107.xml
+    old_id: T52n2107
+hash: sha256:d501ad0487d724b41d062976ddd043421833d7500cd46ac5ab97ba2e32fccfa2
