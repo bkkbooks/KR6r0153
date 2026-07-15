@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0153/v1
 canonical_location: https://kanripo.org/bkk/KR6r0153/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 道宣律師感通錄
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0153_000.yaml, hash: 'sha256:d501ad0487d724b41d062976ddd043421833d7500cd46ac5ab97ba2e32fccfa2'}
-  - {seq: 1, filename: KR6r0153_001.yaml, hash: 'sha256:a56c9219a06d03cfadc4adef8b78f2832c46170ef0ff02f07b439496cc76f807'}
+  - {seq: 1, filename: KR6r0153_001.yaml, hash: 'sha256:d4a0d604949a5055d8cd572602b57dc43b9734205fdfaf3b5f8985ecb4127f6b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0153_000.markers.yaml, hash: 'sha256:1784cda7ab58299e557f42bdc0e13aa555913efcc63c3333a878a25bd56da60c'}
-  - {seq: 1, role: markers, filename: assets/KR6r0153_001.markers.yaml, hash: 'sha256:9926207a3b2eac174391b76b57feefaedf8d51359ebf340fa522fc40e05b5f57'}
+  - {seq: 1, role: markers, filename: assets/KR6r0153_001.markers.yaml, hash: 'sha256:c415aad3befb78eecd52477a395343831d9ed7a459721ef622784fc500cd3c70'}
 table_of_contents:
 - ref:
     seq: 1
@@ -50,4 +50,7 @@ table_of_contents:
   label: 宣律師感天侍傳
   type: mulu
   level: 1
-hash: sha256:f1fa41211a84160ea3edb57fcc482fd0010057593db52246160afd71f568a9b3
+hash: sha256:9e9a08589a826ba0384452839b753b8a5d98ee9628bb191f8e8669214122126a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
